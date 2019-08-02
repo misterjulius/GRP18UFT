@@ -1,0 +1,4 @@
+Payment status=> Name: Position: Agent Head(Kampala(H)) Amount:Ugx 141195
+Payment status=> Name: Position: Agent(Kampala(H)) Amount:Ugx 80683
+Payment status=> Name: Position: Agent head Amount:Ugx 70598
+Payment status=> Name: Position: Agent Amount:Ugx 40341
